@@ -14,7 +14,7 @@ const Footer = () => {
             </span>
             
             <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
-                <a href="#" className="text-gray-300 font-[500] text-[18px] "><i class="ri-instagram-fill"></i></a>
+                <a href="https://instagram.com/jessicafernandes_3010?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" className="text-gray-300 font-[500] text-[18px] "><i class="ri-instagram-fill"></i></a>
             </span>
             <span className='w-[35px] h-[35px] bg-[#2b2d33] p-1 rounded-[50px] cursor-pointer text-center'>
                 <a href="mailto:jessiferns3010@gmail.com" className="text-gray-300 font-[500] text-[18px] "><i class="ri-mail-fill"></i></a>
