@@ -12,7 +12,7 @@ const portfolios = [
     description:
       "A personal portfolio to describe more about myself and my projects.",
     technologies: ["React", "Tailwind css"],
-    siteUrl: "#",
+    siteUrl: "https://github.com/JessicaFernandes3010/Personal-Website",
   },
   
   {
