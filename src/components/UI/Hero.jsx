@@ -12,7 +12,7 @@ const Hero=()=>{
                         <h5 data-aos='fade-right' data-aos-duration='1500' className='text-headingColor font-[600] text-[16px] justify-center items-center'>Hello Welcome!</h5>
                         <h1 data-aos='fade-up' data-aos-duration='1500' className='text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5'>I am Jessica Fernandes <br/> Computer Science Engineer</h1>
                         <div data-aos='fade-up' data-aos-duration='1800' data-aos-delay="200" className="flex items-center gap-6 mt-7">
-                            <a href="https://drive.google.com/file/d/1IIOpRdEWk0h7WfBZrUZl9lxBURbmJl0Q/view?usp=sharing">
+                            <a href="https://drive.google.com/file/d/1p8D_hLCAB3ZN2NB-BK-epqwlW-V4yE3N/view?usp=sharing">
                                 <button className='bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]'>
                                 Resume
                                 </button>
